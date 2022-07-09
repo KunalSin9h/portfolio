@@ -22,68 +22,68 @@ body{
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .social {
-    position: fixed; left: 20px; top: 420px;
+    position: fixed; left: 20px; top: 470px;
     font-size: 20px;
     font-family: 'Glory ExtraBold', 'Times New Roman', Times, serif;
 }
 .coding {
-    position: fixed; left: 20px; top: 540px;
+    position: fixed; left: 20px; top: 600px;
     font-size: 20px;
     font-family: 'Glory ExtraBold', 'Times New Roman', Times, serif;
 }
-.discord {
-    position: fixed; left: 20px; top: 470px;
+.linkedin {
+    position: fixed; left: 20px; top: 520px;
     width: 20px;
     border-radius: 4px;
 }
-.linkedin {
-    position: fixed; left: 20px; top: 500px;
+.twitter {
+    position: fixed; left: 20px; top: 550px;
     width: 20px;
     border-radius: 4px;
 }
 .github {
-    position: fixed; left: 20px; top: 590px;
+    position: fixed; left: 20px; top: 650px;
     width: 20px;
 }
 .codeforces {
-    position: fixed; left: 20px; top: 617px;
+    position: fixed; left: 20px; top: 680px;
     width: 20px;
 }
 .codechef {
-    position: fixed; left: 20px; top: 644px;
+    position: fixed; left: 20px; top: 710px;
     width: 20px;
 }
 .hackerrank {
-    position: fixed; left: 20px; top: 671px;
+    position: fixed; left: 20px; top: 740px;
     width: 20px;
 }
-.discord-text {
-    position: fixed; left: 50px; top: 471px;
+.linkedin-text {
+    position: fixed; left: 50px; top: 520px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
-.linkedin-text {
-    position: fixed; left: 50px; top: 501px;
+.twitter-text{
+    position: fixed; left: 50px; top: 550px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
 .github-text {
-    position: fixed; left: 50px; top: 590px;
+    position: fixed; left: 50px; top: 650px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
 .codeforces-text {
-    position: fixed; left: 50px; top: 619px;
+    position: fixed; left: 50px; top: 680px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
 .codechef-text {
-    position: fixed; left: 50px; top: 645px;
+    position: fixed; left: 50px; top: 710px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
 .hackerrank-text {
-    position: fixed; left: 50px; top: 672px;
+    position: fixed; left: 50px; top: 740px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
