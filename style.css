@@ -1,6 +1,6 @@
-body {
-    background-color: #ffffcc;
-
+body{
+    background-image: url('./images/bg.jpg');
+    background-repeat: no-repeat;
 }
 .profile-picture {
     width: 200px;
@@ -12,8 +12,6 @@ body {
     font-size: 65px;
     font-family:  'Rozha One', 'Arial Narrow', Arial, sans-serif;
 }
-
-
 .hello {
     position:fixed; left: 20px; top: 220px;
     font-family: 'Glory ExtraBold', Tahoma, sans-serif;
@@ -27,25 +25,19 @@ body {
     position: fixed; left: 20px; top: 420px;
     font-size: 20px;
     font-family: 'Glory ExtraBold', 'Times New Roman', Times, serif;
-
 }
 .coding {
     position: fixed; left: 20px; top: 540px;
     font-size: 20px;
     font-family: 'Glory ExtraBold', 'Times New Roman', Times, serif;
-
 }
-.twitter {
+.discord {
     position: fixed; left: 20px; top: 470px;
     width: 20px;
     border-radius: 4px;
 }
-.instagram {
-    position: fixed; left: 20px; top: 497px;
-    width: 20px;
-}
 .linkedin {
-    position: fixed; left: 20px; top: 524px;
+    position: fixed; left: 20px; top: 500px;
     width: 20px;
     border-radius: 4px;
 }
@@ -65,19 +57,13 @@ body {
     position: fixed; left: 20px; top: 671px;
     width: 20px;
 }
-
-.twitter-text {
-    position: fixed; left: 50px; top: 470px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: black;
-}
-.instagram-text {
-    position: fixed; left: 50px; top: 497px;
+.discord-text {
+    position: fixed; left: 50px; top: 471px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
 .linkedin-text {
-    position: fixed; left: 50px; top: 524px;
+    position: fixed; left: 50px; top: 501px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
@@ -87,17 +73,17 @@ body {
     color: black;
 }
 .codeforces-text {
-    position: fixed; left: 50px; top: 617px;
+    position: fixed; left: 50px; top: 619px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
 .codechef-text {
-    position: fixed; left: 50px; top: 644px;
+    position: fixed; left: 50px; top: 645px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
 .hackerrank-text {
-    position: fixed; left: 50px; top: 671px;
+    position: fixed; left: 50px; top: 672px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
