@@ -1,3 +1,3 @@
 # Portfolio
 Personal Website
-This is portfolio website on learning project.
+This is portfolio website as learning project.
