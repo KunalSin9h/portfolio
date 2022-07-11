@@ -1,5 +1,5 @@
 # Portfolio
 
-https://kunalsin9h.github.io/
+https://kunalsin9h.dev/
 
 Personal Website This is portfolio website as learning project.
