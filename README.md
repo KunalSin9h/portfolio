@@ -2,4 +2,4 @@
 
 https://kunalsin9h.dev
 
-Personal Website This is portfolio website as learning project.
+### ```Personal Website. This is a portfolio website as a learning project.```
