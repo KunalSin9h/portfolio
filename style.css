@@ -2,6 +2,10 @@ body{
     background-image: url('./images/bg.jpg');
     background-repeat: no-repeat;
 }
+a{
+    color: #9feaf9;
+    text-decoration: none;
+}
 .profile-picture {
     width: 200px;
     border-radius: 50%;
