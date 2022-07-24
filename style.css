@@ -1,6 +1,9 @@
 body{
     background-image: url('./images/bg.jpg');
     background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 a{
     color: #9feaf9;
