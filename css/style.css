@@ -86,3 +86,10 @@ a{
     margin-right: 690px;
     padding-left: 4px;
 }
+
+#rickroll{
+    position: relative;
+    top: 350px;
+    left: 200px;
+    margin-right: 1440px;
+}
