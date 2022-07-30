@@ -1,3 +1,3 @@
 # Personal portfolio
 
-https://kunalsin9h.dev
+https://kunalsin9h.github.io/
