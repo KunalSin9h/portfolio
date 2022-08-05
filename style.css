@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+}
+
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 40px;
+}
+
+.name-and-logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.name{
+    font-size: 2rem;
+    font-family: 'Righteous', cursive;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color : black;
+}
+
+a:hover {
+    color: #ed6337;
+}
+
+.header {
+    display: flex;
+    align-items:  center;
+    justify-content: space-between;
+    height: 170px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.person {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    padding: 10px;
+}
+
+.others {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-size: .90rem;
+}
+
+.title {
+    font-size: 1.5rem;
+    padding: 10px 0 5px 0;
+    font-family: 'Overpass', sans-serif;
+}
+
+@media (max-width: 800px) {
+    .email {
+        display: none;
+    }
+    .header {
+        justify-content: center;
+    }
+}
+
+@media (min-width: 801px) {
+    .email-2 {
+        display: none;
+    }
+}
