@@ -12,10 +12,10 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
+    background-color: black;
     font-size: 1rem;
+    color: white;
 }
-
-
 
 .container {
     max-width: 1200px;
@@ -32,17 +32,18 @@ body {
 .name{
     font-size: 2rem;
     font-family: 'Righteous', cursive;
-    color: black;
+    color: white;
 }
 
 a {
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
-    color : black;
+    color : white;
 }
 
 a:hover {
     color: #ed6337;
+    text-decoration: line-through;
 }
 
 .header {
