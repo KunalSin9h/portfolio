@@ -2,7 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -12,7 +14,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
-    background-color: black;
+    background-color: #222;
     font-size: 1rem;
     color: white;
 }
@@ -29,7 +31,7 @@ body {
     text-decoration: none;
 }
 
-.name{
+.name {
     font-size: 2rem;
     font-family: 'Righteous', cursive;
     color: white;
@@ -38,7 +40,7 @@ body {
 a {
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
-    color : white;
+    color: white;
 }
 
 a:hover {
@@ -48,7 +50,7 @@ a:hover {
 
 .header {
     display: flex;
-    align-items:  center;
+    align-items: center;
     justify-content: space-between;
     height: 170px;
 }
@@ -83,6 +85,7 @@ a:hover {
     .email {
         display: none;
     }
+
     .header {
         justify-content: center;
     }
