@@ -58,12 +58,12 @@ intro() {
 }
 
 
-bold_success "                                                   "
-bold_success "                                                   " 
-bold_success "           █▄▀ █░█ █▄░█ ▄▀█ █░░   █▀ █ █▄░█ █▀▀ █░█"
-bold_success "           █░█ █▄█ █░▀█ █▀█ █▄▄   ▄█ █ █░▀█ █▄█ █▀█"
-bold_success "                                                   "
-bold_success "                                                   "
+bold_success "                                                  "
+bold_success "                                                  " 
+bold_success "          █▄▀ █░█ █▄░█ ▄▀█ █░░   █▀ █ █▄░█ █▀▀ █░█"
+bold_success "          █░█ █▄█ █░▀█ █▀█ █▄▄   ▄█ █ █░▀█ █▄█ █▀█"
+bold_success "                                                  "
+bold_success "                                                  "
 
 intro "          Hey there, I'm Kunal a 2nd-year Computer Science and Engineering Student." 
 intro "          I love making new stuff using code, and I am fascinated by open-source and love to contribute."
