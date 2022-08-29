@@ -1,7 +1,7 @@
 # portfolio
 Personal portfolio
 
-In terminal type
+In `terminal` type
 ```bash
-curl https://kunalsin9h.dev/who | bash
+curl -fsSL https://kunalsin9h.dev/who | bash
 ```
