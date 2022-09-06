@@ -86,7 +86,7 @@ fi
 curl -fsSL --fail --location --output "$sh" "$commit_uri" ||
     echo -e  "${Red}Failed${Color_Off} to download commit from ${Cyan}\"$commit_uri\"${Color_Off}"
 
-gum spin --spinner dot --title "Downloading commit..." --spinner.foreground="80" -- sleep 5  && echo -e "commit version v0.0.1 (.) downloaded. ${Cyan}https://github.com/KunalSin9h/commit${Color_Off}"
+gum spin --spinner dot --title "Downloading commit..." --spinner.foreground="80" -- sleep 5  && echo -e "commit version v0.0.1 (c1aa0a6) downloaded. ${Cyan}https://github.com/KunalSin9h/commit${Color_Off}"
 
 gum spin --spinner dot --title "Setting Up..." --spinner.foreground="80" -- sleep 3 
 
