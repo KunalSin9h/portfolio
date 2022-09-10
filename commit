@@ -65,15 +65,9 @@ bold_success █▄▄ █▄█ █░▀░█ █░▀░█ █ �
 bold_success
 
 echo -e "${Yellow}Commit${Color_Off} helps in better git experience and maintain proper commit messages."
-info "Commit uses gum for styling prompts."
+echo -e "Commit uses gum for styling prompts, ${Magenta}make sure you have installed gum${Color_Off} before proceeding. ${Cyan}https://github.com/charmbracelet/gum#installation${Color_Off}"
 echo
 info "Installing commit..."
-
-REQUIRED_PKG="gum"
-PKG_OK=$(dpkg-query -W --showformat='${Status}\n' $REQUIRED_PKG | grep "install ok installed")
-if [ "" == "$PKG_OK" ]; then
-    error "Please install gum first. ${Cyan}https://github.com/KunalSin9h/commit#installation${Color_Off}"
-fi
 
 commit_uri=https://raw.githubusercontent.com/KunalSin9h/commit/master/commit
 
@@ -92,7 +86,7 @@ fi
 curl -fsSL --fail --location --output "$sh" "$commit_uri" ||
   error "Failed to download commit from \"$commit_uri\""
 
-gum spin --spinner dot --title "Downloading commit..." --spinner.foreground="80" -- sleep 5  && echo -e "commit version v0.0.1 (c1aa0a6) downloaded. ${Cyan}https://github.com/KunalSin9h/commit${Color_Off}"
+gum spin --spinner dot --title "Downloading commit..." --spinner.foreground="80" -- sleep 5  && echo -e "commit version v0.0.2 (003e029 ) downloaded. ${Cyan}https://github.com/KunalSin9h/commit${Color_Off}"
 
 gum spin --spinner dot --title "Setting Up..." --spinner.foreground="80" -- sleep 3
 
