@@ -193,3 +193,4 @@ echo
 
 if [[ $refresh_command ]]; then
     info_bold " $refresh_command"
+fi
