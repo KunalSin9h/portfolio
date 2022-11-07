@@ -69,6 +69,7 @@ intro "          Hey there, I'm Kunal a 2nd-year Computer Science and Engineerin
 intro "          I love making new stuff using code, and I am fascinated by open-source"
 intro "          and love to contribute."
 
+
 info      "          ${Magenta}Connect${Color_Off}"
 info_bold "          Email: kunal@kunalsin9h.dev"
 info_bold "          GitHub: ${Cyan}https://github.com/KunalSin9h${Color_Off}"
