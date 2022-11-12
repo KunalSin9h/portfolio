@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kunalsin9h
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kunalsin9h.dev
+  * I am kunalsin9h (https://keybase.io/kunalsin9h) on keybase.
+  * I have a public key ASAMGGlmrzYPX1Cxk5gWkxWF4d_ZOrh7u3XzloVKCsWPQAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bb826e307f2be02c369ee4d9d39eb8c1eb39e40ef2c66e578640dc90f16f0cf80a",
+      "host": "keybase.io",
+      "kid": "01200c186966af360f5f50b1939816931585e1dfd93ab87bbb75f396854a0ac58f400a",
+      "uid": "a72fed48e382452e63978541667ac019",
+      "username": "kunalsin9h"
+    },
+    "merkle_root": {
+      "ctime": 1668259815,
+      "hash": "bac9962b044ea07c9dcde6e8360b995e0f0e6357addaeafc9ccccbb146096e89618a50f498f73f21d07017d614daaa6d365d87e84b4e47884265a990dc39bb81",
+      "hash_meta": "529f75e61aae54b89ae46b2289efd5983f14475e47d179aa6a93cdb58ca5713f",
+      "seqno": 23538709
+    },
+    "service": {
+      "entropy": "I1Y0WlpGFhSx52jVb69NY97S",
+      "hostname": "kunalsin9h.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1668260093,
+  "expire_in": 504576000,
+  "prev": "1002da317f643bad834a7b37024e925a51e21deedc6ae1bc8dd342daad3ff6c4",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDBhpZq82D19QsZOYFpMVheHf2Tq4e7t185aFSgrFj0AKp3BheWxvYWTESpcCC8QgEALaMX9kO62DSns3Ak6SWlHiHe7cauG8jdNC2q0/9sTEICMYWlPlnWTCL/c6zDqclZMGu2XBqu48ogeWCPNNUQLlAgHCo3NpZ8RA2MLB3j3n3cuneBmsN9R90ylB+DoXUaKg4C/Ye0BlblvVQkuKKYpqzL2qNMMDa5A1X6yV3bfvyiS6n57+xrW5AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPFkb5HmOpfY8snsLlkdPDpVGBvVrRzkik68omIsfUano3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kunalsin9h
+
+==================================================================
