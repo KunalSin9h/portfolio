@@ -38,10 +38,10 @@ export async function getStaticProps({ params }) {
   };
 }
 
-export default function ({ url }) {
+export default function Redirect({ url }) {
   return (
     <Head>
-      <meta http-equiv="Refresh" content={`0; URL=${url}`} />
+      <meta httpEquiv="Refresh" content={`0; URL=${url}`} />
     </Head>
   );
 }
