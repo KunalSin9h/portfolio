@@ -2,8 +2,8 @@
   "private": true,
   "scripts": {
     "lint": "next lint",
-    "format": "prettier --write ./src/**/*.{js, jsx, ts, tsx}",
-    "format:check": "prettier --check ./src/**/*.{js, jsx, ts, tsx}",
+    "format": "prettier --write src/**/*",
+    "format:check": "prettier --check src/**/*",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"

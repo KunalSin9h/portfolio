@@ -4,9 +4,9 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <link rel="icon" type="image/svg" href="/profile.svg" />
+        <link rel="icon" type="image/svg" href="/public/profile.svg" />
       </Head>
-      <body>
+      <body className="flex  bg-black items-center justify-center h-screen">
         <Main />
         <NextScript />
       </body>
